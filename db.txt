@@ -1,0 +1,5 @@
+hotel_farhan
+kamar : id_kamar,jenis_kamar,deskripsi,harga
+pemesanan : id_pemesanan,id_kamar,nik_tamu,cekin,cekout
+tamu : nik_tamu,nama_tamu,no_telp
+user : id_user,username,email,password
